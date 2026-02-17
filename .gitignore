@@ -1,0 +1,11 @@
+# Virtual environment
+conenv/
+__pycache__/
+*.pyc
+
+# MediaPipe model (auto-downloaded at runtime)
+hand_landmarker.task
+
+# IDE
+.vscode/
+.idea/
